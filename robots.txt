@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://pratikbalar.github.io/sitemap.xml
